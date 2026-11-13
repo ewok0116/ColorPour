@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c72dc5f19d64a9a4cbc5f79e5ee1c9e5, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: Assembly-CSharp::BottleFill.Core.GameConfig
+  levelCatalog: {fileID: 11400000, guid: 9286cd20c9d1b3b48837f59816fcc9dc, type: 2}
+  colorRegistry: {fileID: 11400000, guid: 23568fe2c669f604ba3988b22f6ce34c, type: 2}
+  mixTable: {fileID: 11400000, guid: a7a8a4af0c05d624681034ae76c0600a, type: 2}
+  scoring: {fileID: 11400000, guid: 7a8b7b380e6dd9b45824ffe31fe20e41, type: 2}
+  defaultLevelReward: 50
+  labCatalog: {fileID: 0}

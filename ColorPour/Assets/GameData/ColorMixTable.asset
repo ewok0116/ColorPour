@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74424a092b1dd104db93a169d8196b57, type: 3}
+  m_Name: ColorMixTable
+  m_EditorClassIdentifier: Assembly-CSharp::BottleFill.Data.ColorMixTable
+  recipes:
+  - first: {fileID: 11400000, guid: fe8d22ddc65f75247b96cc9f0dde02ef, type: 2}
+    second: {fileID: 11400000, guid: 92619cda45c97e3438d2e8ee0cc3514a, type: 2}
+    result: {fileID: 11400000, guid: 2d2910d05d54a39489558a6617d4a157, type: 2}
+  - first: {fileID: 11400000, guid: ffc6c5135e7925b459e20fee66ed96e7, type: 2}
+    second: {fileID: 11400000, guid: fe8d22ddc65f75247b96cc9f0dde02ef, type: 2}
+    result: {fileID: 11400000, guid: 3c7ca1d90e9f5204ea8f563c5c0a961a, type: 2}
+  - first: {fileID: 11400000, guid: ffc6c5135e7925b459e20fee66ed96e7, type: 2}
+    second: {fileID: 11400000, guid: 92619cda45c97e3438d2e8ee0cc3514a, type: 2}
+    result: {fileID: 11400000, guid: 2088e8949a77ecb48b23baa0dd491694, type: 2}
